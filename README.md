@@ -1,4 +1,4 @@
-Titel
+Dit is de Git PullRequest Game
 
 1. Commando om Git versiecontrol te initialiseren in een directory:
 2. Commando om alle changes toe te voegen aan de commit:
