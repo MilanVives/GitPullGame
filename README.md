@@ -5,7 +5,7 @@ Git PullRequest Game
 3. Commando om alles toegevoegde changes te committen met als boodschap 'initial commit':
 4. Commando om https://github.com/MilanVives/testRepo.git als remote origing van onze repository toe te voegen:
 5. Commando om al onze commits te pushen naar de remote origin master:
-6. Commando om de status te controleren:
+6. Commando om de status te controleren: git status
 7. Commando om een nieuwe branch aan te maken met als naam 'feature-branch':
 8. Commando om te zien in welke branch men bezig is:
 9. Commando om te veranderen naar branch 'feature-branch':
