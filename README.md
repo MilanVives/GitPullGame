@@ -1,6 +1,7 @@
 Titel
 
 1. Commando om Git versiecontrol te initialiseren in een directory:
+git init
 2. Commando om alle changes toe te voegen aan de commit:
 3. Commando om alles toegevoegde changes te committen met als boodschap 'initial commit':
 4. Commando om https://github.com/MilanVives/testRepo.git als remote origing van onze repository toe te voegen:
